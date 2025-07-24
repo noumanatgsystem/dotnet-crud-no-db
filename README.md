@@ -46,10 +46,10 @@ Simple_webAPi/
 │ └── Student.cs
 │
 ├── Interface/
-│ └── ICRUD.cs
+│ └── IStudent.cs
 │
 ├── Services/
-│ └── CRUDService.cs
+│ └── StudentService.cs
 │
 ├── Controllers/
 │ └── StudentController.cs
