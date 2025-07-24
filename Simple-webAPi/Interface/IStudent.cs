@@ -2,12 +2,12 @@
 
 namespace Simple_webAPi.Interface
 {
-    public interface ICRUD
+    public interface IStudent
     {
         string SaveStudent(Student std);
-        List<Student> GetAllStudent();
-        string GetStudentByEmail(string email);
         string UpdateStudent(Student std);
+        List<Student> GetAllStudents();
+        Student GetStudentByEmail(string email);
         string DeleteStudent(string email);
     }
 }
