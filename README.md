@@ -55,7 +55,6 @@ Simple_webAPi/
 │ └── StudentController.cs
 │
 ├── Program.cs
-├── Startup.cs (if applicable)
 └── README.md
 
 
